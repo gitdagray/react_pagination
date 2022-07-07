@@ -23,7 +23,7 @@
 
 ### Description
 
-📺 [YouTube Video]() for this repository.
+📺 [YouTube Video](https://youtu.be/9ZbdwL5NSuQ) for this repository.
 
 ---
 
@@ -41,9 +41,9 @@
 
 ### 📚 Tutorial References
 
-- 🔗 [Official React docs: React.memo](https://reactjs.org/docs/react-api.html#reactmemo)
-- 🔗 [NPM: JSON Server](https://www.npmjs.com/package/json-server)
-- 🔗 [Font Awesome React Icons](https://fontawesome.com/docs/web/use-with/react/add-icons)
+- 🔗 [React Query: Paginated Queries](https://react-query.tanstack.com/guides/paginated-queries)
+- 🔗 [JSON Placeholder: Posts](https://jsonplaceholder.typicode.com/posts)
+- 🔗 [ReqRes.in: Users](https://reqres.in/api/users?page=1)
 
 ### ⚙ VS Code Extensions I Use:
 
